@@ -38,7 +38,7 @@ We can verify with:
 
 Installing on windows will be slightly different.
 
-You may need to install the [Visual C++ Build Tools 2019](https://visualstudio.microsoft.com/downloads/?q=build+tools#build-tools-for-visual-studio-2022) or equivalent (Visual Studio 2019, etc.) if theyre not already installed.
+You may need to install the [Visual C++ Build Tools 2019](https://visualstudio.microsoft.com/downloads/?q=build+tools#build-tools-for-visual-studio-2022) or equivalent (Visual Studio 2019, etc.) if they're not already installed.
 
 You'll need to download the [rustup.exe](https://static.rust-lang.org/rustup/dist/x86_64-pc-windows-msvc/rustup-init.exe) and run it.
 
